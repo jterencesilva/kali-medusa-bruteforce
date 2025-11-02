@@ -20,7 +20,6 @@
 * [Validação / Evidências esperadas](#valida%C3%A7%C3%A3o--evid%C3%AAncias-esperadas)
 * [Mitigações recomendadas](#mitiga%C3%A7%C3%B5es-recomendadas)
 * [Boas práticas / Avisos de segurança](#boas-pr%C3%A1ticas--avisos-de-seguran%C3%A7a)
-* [Contribuições e licença](#contribui%C3%A7%C3%B5es-e-licen%C3%A7a)
 * [Contato](#contato)
 
 ---
