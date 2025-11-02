@@ -43,8 +43,6 @@
   * Metasploitable2: `192.168.56.20`
   * DVWA (opcional): `192.168.56.21`
 
-Diagrama: adicione `images/architecture.png` se quiser mostrar o diagrama.
-
 ---
 
 ## Configuração passo-a-passo (resumo)
