@@ -180,5 +180,7 @@ smbclient ... | tee outputs/smb_client.txt
 ## Contato
 
 Autor: Jose Augusto Terence
+
 Repo: `https://github.com/jterencesilva/kali-medusa-bruteforce`
+
 E-mail: jterencesilva@gmail.com
